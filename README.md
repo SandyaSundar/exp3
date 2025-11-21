@@ -52,7 +52,7 @@ FULL ADDER:
 
 FULL SUBTRACTOR:
 
-![alt text](<full subtractor.png>)
+![alt text](<full subtractor program.png>)
 
 Developed by : Sandya S    Register Number: 25017264
 
