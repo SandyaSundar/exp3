@@ -1,4 +1,5 @@
 **DESIGN OF ADDER AND SUBTRACTOR**
+
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
@@ -29,7 +30,7 @@ Borrow out = A'Bin + A'B + BBin
 
 **PROGRAM:**
 
-Developed by : Sandya S    Register Number:
+Developed by : Sandya S    Register Number: 25017264
 
 **RTL SCHEMATIC:**
 
